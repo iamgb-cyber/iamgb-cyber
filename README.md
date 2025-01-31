@@ -4,13 +4,14 @@
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="400"/>
 </p>
 
-<p align="center">
-  🚀 Passionate about <strong>Cybersecurity, Ethical Hacking & OSINT</strong> <br>
-  🔎 Exploring <strong>Pentesting, Red Teaming & Threat Intelligence</strong> <br>
-  📖 Studying at <strong>Correlation One Cybersecurity Program</strong> <br>
-  🏆 Participating in the <strong>National Cyber League (NCL)</strong> <br>
-  ⚡ Active in <strong>TryHackMe | OverTheWire | HackTheBox</strong>
-</p>
+## 👋 **About Me**
+Passionate about cybersecurity, ethical hacking, and OSINT. I am continuously learning and exploring new attack vectors, defense mechanisms, and ways to improve my skills. My main interests include:
+
+- 🔎 **Pentesting & Red Teaming**
+- 🔐 **Threat Intelligence & OSINT Investigations**
+- 📖 **Currently studying at Correlation One Cybersecurity Program**
+- 🏆 **National Cyber League (NCL) Competitor**
+- ⚡ **Active on TryHackMe, OverTheWire, and HackTheBox**
 
 ---
 
@@ -32,12 +33,28 @@
 - 🛡️ **[CyberSecLabs](https://github.com/iamgb-cyber/CyberSecLabs)** – Hands-on labs and writeups  
 - 🔍 **[OSINT-Toolkit](https://github.com/iamgb-cyber/OSINT-Toolkit)** – Custom scripts for OSINT investigations  
 - 🔴 **[Red Team Notes](https://github.com/iamgb-cyber/RedTeam-Notes)** – Knowledge base for pentesting  
+- 🔢 **[Cryptography Toolkit](https://github.com/iamgb-cyber/Cryptography-Toolkit)** – Scripts for encoding, decoding, and cryptanalysis  
+- 📝 **[NCL Writeups](https://github.com/iamgb-cyber/NCL-Writeups)** – My personal journey and solutions for NCL challenges  
+- 🎯 **[CTF-Writeups](https://github.com/iamgb-cyber/CTF-Writeups)** – Capture The Flag solutions and strategies  
+- 🛠️ **[Kali-Scripts](https://github.com/iamgb-cyber/Kali-Scripts)** – Custom automation scripts for Kali Linux  
+- 🛡️ **[Pentest-Tools](https://github.com/iamgb-cyber/Pentest-Tools)** – Tools and utilities for penetration testing  
+
+---
+
+## 🏆 **Certifications & Achievements**
+- ✅ **CompTIA Security+ (In Progress)**
+- 🏅 **National Cyber League (NCL) Competitor**
+- 🎓 **TryHackMe Top % Ranking**
 
 ---
 
 ## 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamgb-cyber&show_icons=true&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgb-cyber&layout=compact&theme=radical"/>
 </p>
 
 ---
