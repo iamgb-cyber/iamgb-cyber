@@ -30,14 +30,14 @@ Passionate about cybersecurity, ethical hacking, and OSINT. I am continuously le
 ## 📌 **Projects & Labs**
 📂 Explore some of my repositories and projects:
 
-- 🛡️ **[CyberSecLabs](https://github.com/iamgb-cyber/CyberSecLabs)** – Hands-on labs and writeups  
-- 🔍 **[OSINT-Toolkit](https://github.com/iamgb-cyber/OSINT-Toolkit)** – Custom scripts for OSINT investigations  
-- 🔴 **[Red Team Notes](https://github.com/iamgb-cyber/RedTeam-Notes)** – Knowledge base for pentesting  
+- 🛡️ **[CyberSecLabs](https://github.com/iamgb-cyber/CyberDev-Labs/tree/CyberDevMain/CyberSecLabs)** – Hands-on labs and writeups  
+- 🔍 **[OSINT-Toolkit](https://github.com/iamgb-cyber/CyberDev-Labs/tree/CyberDevMain/OSINT-Toolkit)** – Custom scripts for OSINT investigations  
+- 🔴 **[Red Team Notes](https://github.com/iamgb-cyber/CyberDev-Labs/tree/CyberDevMain/RedTeam-Notes)** – Knowledge base for pentesting  
 - 🔢 **[Cryptography Toolkit](https://github.com/iamgb-cyber/Cryptography-Toolkit)** – Scripts for encoding, decoding, and cryptanalysis  
-- 📝 **[NCL Writeups](https://github.com/iamgb-cyber/NCL-Writeups)** – My personal journey and solutions for NCL challenges  
-- 🎯 **[CTF-Writeups](https://github.com/iamgb-cyber/CTF-Writeups)** – Capture The Flag solutions and strategies  
-- 🛠️ **[Kali-Scripts](https://github.com/iamgb-cyber/Kali-Scripts)** – Custom automation scripts for Kali Linux  
-- 🛡️ **[Pentest-Tools](https://github.com/iamgb-cyber/Pentest-Tools)** – Tools and utilities for penetration testing  
+- 📝 **[NCL Writeups](https://github.com/iamgb-cyber/CyberDev-Labs/tree/CyberDevMain/NCL-Writeups)** – My personal journey and solutions for NCL challenges  
+- 🎯 **[CTF-Writeups](https://github.com/iamgb-cyber/CyberDev-Labs/tree/CyberDevMain/CTF-Writeups)** – Capture The Flag solutions and strategies  
+- 🛠️ **[Kali-Scripts](https://github.com/iamgb-cyber/CyberDev-Labs/tree/CyberDevMain/Kali-Scripts)** – Custom automation scripts for Kali Linux  
+- 🛡️ **[Pentest-Tools](https://github.com/iamgb-cyber/CyberDev-Labs/tree/CyberDevMain/Pentest-Tools)** – Tools and utilities for penetration testing  
 
 ---
 
