@@ -55,12 +55,17 @@ I combine hands-on cybersecurity training with real-world infrastructure and aut
 - OSINT and data-analysis workflows
 - Sanitized lab notes and write-ups in development
 
-### 🏠 Secure Infrastructure Lab
+### 🏠 [Secure Homelab](https://github.com/iamgb-cyber/secure-homelab)
 
-- Proxmox virtualization environment for Linux, networking, and security labs
-- Firewall, VPN, DNS, VLAN, IDS/IPS, and backup architecture planning
-- Docker-based hosting for internal tools and services
-- Secure remote administration and operational documentation
+An evidence-backed Proxmox security assessment designed as a sanitized small-business infrastructure case study.
+
+- Verified current-state inventory covering compute, storage, workloads, backups, and network structure
+- Current and target architecture diagrams with explicit trust boundaries
+- Risk-based hardening roadmap, recovery runbook, and NIST CSF 2.0 mapping
+- Read-only Bash collector that removes common infrastructure identifiers
+- Clear separation between verified controls, gaps, and planned improvements
+
+[View the case study →](https://github.com/iamgb-cyber/secure-homelab)
 
 ### 🤖 Automation & AI-Enabled Operations
 
